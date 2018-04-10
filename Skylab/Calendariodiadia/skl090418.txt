@@ -1,0 +1,25 @@
+09/04/18
+
+Sergio : Scrum, agile
+
+cmdr
+pwd (para saber que carpeta estamos)
+ls(listar lo que hay en la carpeta)
+clear(limpiar)
+mkdir(carpeta nueva, hay q poner el nombre de la carpeta a continuación ej. mkdir musica)
+cd (cambiar de carpeta o entrar)
+touch(crear un fichero) ej: touch README.md
+cat (para abrir un fichero md) ej: cat README.md
+mv (cambiar nombre del un fichero) ej:mv README.md helloworld.md
+rm(borrar un fichero) ej: rm helloworld.md
+echo (crear un fichero) echo"Hello, World!"> helloworld.md
+cd.. (cambir a la carpeta padre, carpeta anterior)
+rmdir -r(rm - r)(borrar un directorio y todo lo que hay dentro) otras veces rm -rf
+grep (grep -r . -e) (busca en los ficheros de la carpeta coincidencias entre ellas) ej: grep -r . -e 1
+mv (cambiar el nombre de una carpeta(lo mueve todo de una carpeta a otra)(para cambiar el nombre de la carpeta hay que ir a su padre) ej:mv skylab-bootcamp-201804\ skylab-bootcampo-201804\
+tree (visualiza todas las carpetas en forma de "arbol")
+cd ../../ para pasar de "n" hijos a "n" padres
+
+alt+shift+F Formatea con visual code
+
+
