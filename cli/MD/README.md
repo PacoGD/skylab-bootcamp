@@ -69,3 +69,5 @@ git fetch upstream (lo que hace esto es bajarse todo lo que tenemos en el upstre
 git merge upstream/develop para pasar todo a el upstream que nos hemos bajado con los pasos anteriores, hacemos un merge en consola
 
 Manual de git en español https://git-scm.com/book/es/v2
+
+cp -R para copiar el contenido de una carpeta en otra
