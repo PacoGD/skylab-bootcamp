@@ -71,3 +71,6 @@ git merge upstream/develop para pasar todo a el upstream que nos hemos bajado co
 Manual de git en español https://git-scm.com/book/es/v2
 
 cp -R para copiar el contenido de una carpeta en otra
+
+mv skylab\* el astedico nos mueve todo lo que haya dentro de la carpeta a la carpeta especificada
+
