@@ -60,4 +60,12 @@ git reset para resetear algun cambio inconsciente
 
 git reset --hard HEAD (resetea hasta el ultimo commit)
 
+git clone si le ponemos la url de github nos hará una copia en nuestro pc del archivo de github
 
+git config --list 
+
+git remote add upstream (https://github.com/manuelbarzi/skylab-bootcamp-201804) para refrescar despues de confirmar el pull request. Tenemos el upstream, nuestro fork, y la consola. con esto refrescaremos nuestra consola después de haber confirmado el pull request en upstream
+git fetch upstream (lo que hace esto es bajarse todo lo que tenemos en el upstream(el archivo orginal una vez se ha hecho el pull request)pero todavía no lo ha subtituido)
+git merge upstream/develop para pasar todo a el upstream que nos hemos bajado con los pasos anteriores, hacemos un merge en consola
+
+Manual de git en español https://git-scm.com/book/es/v2
