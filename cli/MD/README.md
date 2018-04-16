@@ -75,3 +75,12 @@ cp -R para copiar el contenido de una carpeta en otra
 
 mv skylab\* el astedico nos mueve todo lo que haya dentro de la carpeta a la carpeta especificada
 
+alt + flechas para mover una linia de codigo
+alt + z 
+shift + alt + f formatear
+alt + shift + flechas copiar linia haci arriba o hacia abajo
+alt shift A comentar lo seleccionado
+
+git fetch upstream pull/86/head:review-pr Creamos una nueva rama con el codigo de un compañero que ha hecho pull request. "review-pr" seria el nombre de la rama donde revisar "86" es el numero de la pull request
+
+
